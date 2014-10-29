@@ -1,5 +1,5 @@
 # Local Open Sans
-Use an local version of the font Open Sans.
+Use an local version of the Google font Open Sans.
 
 ## Description
 The plugin replace the default url to Google font Open Sans with a local version in the WordPress administration area.
@@ -23,11 +23,7 @@ Please give me feedback, contribute and file technical bugs on this
 
 ### License
 Good news, this plugin is free for everyone! Since it's released under the GPL, 
-you can use it free of charge on your personal or commercial blog. But if you enjoy this plugin, 
-you can thank me and leave a 
-[small donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6069955 "Paypal Donate link") 
-for the time I've spent writing and supporting this plugin. 
-And I really don't want to know how many hours of my life this plugin has already eaten ;)
+you can use it free of charge on your personal or commercial blog.
 
 ### Contact & Feedback
 The plugin is designed and developed by me [Frank Bültge](http://bueltge.de), [G+ Page](https://plus.google.com/111291152590065605567/about?rel=author)
