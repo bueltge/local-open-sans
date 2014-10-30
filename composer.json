@@ -1,6 +1,6 @@
 {
 	"name": "bueltge/local-open-sans",
-	"description": "Use a local version of the Google font Open Sans.",
+	"description": "Use a local version of the Google Open Sans font.",
 	"license": "GPL 2+",
 	"version": "0.1",
 	"type": "wordpress-plugin",
