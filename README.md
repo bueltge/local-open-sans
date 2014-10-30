@@ -1,8 +1,8 @@
 # Local Open Sans
-Use an local version of the Google font Open Sans.
+_Local Open Sans_ is an WordPress plugin. Use an local version of the Google font Open Sans.
 
 ## Description
-The plugin replace the default url to Google font Open Sans with a local version in the WordPress administration area.
+The WordPress plugin replace the default url to Google font Open Sans with a local version in the WordPress administration area.
 
 ### Screenshots
  1. [Before Replacing](https://github.com/bueltge/local-open-sans/blob/master/assets/screenshot-1.png)
