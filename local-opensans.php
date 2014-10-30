@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Local Open Sans
- * Description: Use an local version of the font Open Sans.
+ * Description: Use a local version of the Google font Open Sans.
  * Plugin URI:  
  * Version:     0.1
  * Author:      Frank Bültge
