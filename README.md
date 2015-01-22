@@ -14,8 +14,8 @@ The WordPress plugin replaces the default URL to Google Open Sans font with a lo
 
 ## Other Notes
 
-### Made by [Inpsyde](http://inpsyde.com) &middot; We love WordPress
-Have a look at the premium plugins in our [market](http://marketpress.com).
+### Crafted by [Inpsyde](http://inpsyde.com) &middot; Engineering the web since 2006.
+Yes, we also run that [marketplace for premium WordPress plugins and themes](http://marketpress.com).
 
 ### Bugs, technical hints or contribute
 Please give me feedback, contribute and file technical bugs on this 
