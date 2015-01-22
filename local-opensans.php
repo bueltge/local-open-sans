@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Local Open Sans
  * Description: Use a local version of the Google Open Sans font.
- * Plugin URI:  
+ * Plugin URI:  https://github.com/bueltge/local-open-sans
  * Version:     0.1
  * Author:      Frank Bültge
  * Author URI:  http://bueltge.de/
