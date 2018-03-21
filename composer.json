@@ -1,19 +1,18 @@
 {
 	"name": "bueltge/local-open-sans",
 	"description": "Use a local version of the Google Open Sans font.",
-	"license": "GPL 2+",
-	"version": "0.1",
+	"license": "GPL-3.0-or-later",
 	"type": "wordpress-plugin",
 	"authors": [
 		{
 			"name": "Inpsyde GmbH",
-			"homepage": "http://inpsyde.com",
+			"homepage": "https://inpsyde.com",
 			"email": "info@inpsyde.com",
 			"role": "Company"
 		},
 		{
 			"name": "Frank Bültge",
-			"homepage": "http://bueltge.de",
+			"homepage": "https://bueltge.de",
 			"email": "frank@bueltge.de",
 			"role": "Developer"
 		}
