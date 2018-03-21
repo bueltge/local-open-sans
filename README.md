@@ -8,6 +8,7 @@ The WordPress plugin replaces the default URL to Google Open Sans font with a lo
  1. [Before Replacing](https://github.com/bueltge/local-open-sans/blob/master/assets/screenshot-1.png)
  
  ![Before Replacing](https://raw.github.com/bueltge/local-open-sans/master/assets/screenshot-1.png)
+ 
  2. [After Replacing](https://github.com/bueltge/local-open-sans/blob/master/assets/screenshot-2.png)
  
  ![After Replacing](https://raw.github.com/bueltge/local-open-sans/master/assets/screenshot-2.png)
